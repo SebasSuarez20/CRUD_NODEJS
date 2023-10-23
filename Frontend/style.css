@@ -1,0 +1,22 @@
+.divTitle {
+  width: 100%;
+  display: flex;
+}
+
+
+.content-0:nth-child(2) {
+  margin-left: -5px;
+  margin-top: 50px;
+}
+
+.icon-main {
+  width: 100%;
+}
+
+.icon-main img {
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
